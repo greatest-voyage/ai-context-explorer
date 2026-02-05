@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "AI Context Explorer",
+  "version": "1.0",
+  "permissions": ["contextMenus", "sidePanel", "storage"],
+  "host_permissions": ["<all_urls>"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "side_panel": {
+    "default_path": "sidepanel.html"
+  },
+  "icons": { "16": "icon16.png" }
+}
