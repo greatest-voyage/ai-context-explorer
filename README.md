@@ -40,21 +40,15 @@ Side panel shows AI response
 
 ### 1. Text selection + right-click
 
-```
-![img.png](img.png)
-```
+<img width="315" height="308" alt="Screenshot 2026-02-06 at 3 01 48 AM" src="https://github.com/user-attachments/assets/d66e1934-9bab-4e1f-af1d-7ab67f2ef986" />
 
 ### 2. Side panel opens
 
-```
-![img_1.png](img_1.png)
-```
+<img width="369" height="838" alt="Screenshot 2026-02-06 at 3 03 21 AM" src="https://github.com/user-attachments/assets/a1602a10-eb74-4170-b52a-f635532817ae" />
 
 ### 3. Local AI explanation
 
-```
-![img_2.png](img_2.png)
-```
+<img width="359" height="832" alt="Screenshot 2026-02-06 at 3 06 03 AM" src="https://github.com/user-attachments/assets/291bccec-fde0-4747-aaf2-5c37c215be8a" />
 
 ---
 
